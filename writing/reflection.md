@@ -4,7 +4,7 @@ Name: Sean Siska
 Date: 3/18/26
 
 After completing the practice test, please reflect on your experience by
-answering the questions below. Replace each `TODO` with a thoughtful response
+answering the questions below. Replace each `` with a thoughtful response
 (a few sentences each). Your responses help you consolidate what you learned
 and identify areas to review before the real midterm.
 
@@ -93,7 +93,7 @@ What is the value of `2 ** 2 ** 3`? Show your step-by-step reasoning.
 
 **Your Answer:**
 
-TODO
+It evaluates from right to left, so first do 2^3 = 8 then 2 ^8 = 256, so the answer is 256.
 
 ---
 
@@ -103,7 +103,7 @@ TODO
 
 **Your Answer:**
 
-It evaluates from right to left, so first do 2^3 = 8 then 2 ^8 = 256, so the answer is 256.
+Classes are blueprints for creating programs that store data and functions together. They are necessary because they help organize code and make it easier to reuse and use larger programs.
 
 ---
 
