@@ -1,7 +1,7 @@
 # CS101 Spring 2026 — Practice Midterm Reflection
 
-Name: Add Your Name Here  
-Date: Add Date Here
+Name: Sean Siska  
+Date: 3/18/26
 
 After completing the practice test, please reflect on your experience by
 answering the questions below. Replace each `TODO` with a thoughtful response
@@ -17,7 +17,7 @@ Which topics felt most comfortable, and which ones felt most difficult?
 
 **Your Answer:**
 
-TODO
+I actually felt very good doing this, throughout.
 
 ---
 
@@ -28,7 +28,7 @@ Explain the concept being tested and describe why the correct answer is right.
 
 **Your Answer:**
 
-TODO
+question 6 was simple but it had me stumped a little, i didnt know if the len() function counted keys along with the values.
 
 ---
 
@@ -39,7 +39,7 @@ with a positive step versus a negative step. Give one original example of each.
 
 **Your Answer:**
 
-TODO
+When a step is positive, it goes through a and b by that value, for example range(4,10, 2) would print 4 6 8. While if there was a negative step it would count backwards, for example range(10,4,-2) would print 10 8 6
 
 ---
 
@@ -51,7 +51,7 @@ dictionary and a set. When would you choose each?
 
 **Your Answer:**
 
-TODO
+A list can be changed but a tuple cannot, so use a list for changing data and a tuple for fixed data. A dictionary stores key value pairs while a set stores only unique values with no duplicates.
 
 ---
 
@@ -63,7 +63,7 @@ the caller omits that argument.
 
 **Your Answer:**
 
-TODO
+A default parameter is when a function already has a value set if no argument is given. For example, def greet(name="sean"): print(name) will print "sean" if no name is passed, because it uses the default value.
 
 ---
 
@@ -81,7 +81,8 @@ for n in range(1, 11):
 
 **Your Answer:**
 
-TODO
+result = [n * 2 for n in range(1,11)
+    if n % 3 == 0]
 
 ---
 
@@ -102,7 +103,7 @@ TODO
 
 **Your Answer:**
 
-TODO
+It evaluates from right to left, so first do 2^3 = 8 then 2 ^8 = 256, so the answer is 256.
 
 ---
 
