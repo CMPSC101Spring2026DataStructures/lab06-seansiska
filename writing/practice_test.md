@@ -3,7 +3,7 @@
 Name: Sean SIska  
 Date: 3/17/26
 
-**Instructions:** For each question, record your answer by replacing `TODO` with
+**Instructions:** For each question, record your answer by replacing `` with
 the letter of the single best response (a, b, c, or d). 
 
 ---
